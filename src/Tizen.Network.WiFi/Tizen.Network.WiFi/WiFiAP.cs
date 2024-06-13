@@ -751,7 +751,7 @@ namespace Tizen.Network.WiFi
     }
 
     /// <summary>
-    /// A class which is used to represent WPS PIN information of the access point.
+    /// A class which is used to represent WPS PIN information of the access.
     /// </summary>
     /// <since_tizen> 3 </since_tizen>
     public class WpsPinInfo : WpsInfo
